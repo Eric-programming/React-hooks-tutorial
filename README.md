@@ -6,6 +6,7 @@ This is a User Authetication to add to your project to Autheticate user as a mid
 ```
 # Make sure you have the following packages installed
 - mongoose
+- express
 
 
 ```
@@ -15,5 +16,7 @@ This is a User Authetication to add to your project to Autheticate user as a mid
 ```
 # Install these packages into your project
 npm i jsonwebtoken bcryptjs
+
+#Connect the UserAuth.js file to your index.js file
 
 ```
