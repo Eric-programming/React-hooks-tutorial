@@ -9,7 +9,7 @@
   "author": "eric",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   }
